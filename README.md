@@ -5,6 +5,14 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/seed-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/seed-light.gif">
+  <img alt="A small seed grows into two leaves, then stays still" src="./assets/seed-light.gif" width="160" height="98">
+</picture>
+
+
+
 # Over9rowth
 
 *A curious mind exploring code, security, and the world beyond the ordinary.*
